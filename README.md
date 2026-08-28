@@ -45,19 +45,19 @@ Every one of them is answerable from the dashboard without further analysis. Tha
 ### Dashboard preview
 
 **1 — Workforce Overview** *(who do we have, and where?)*
-![Workforce Overview](images/01-workforce-overview.png)
+![Workforce Overview](01-workforce-overview.png)
 
 **2 — Departmental Performance** *(which teams are delivering, and at what cost?)*
-![Departmental Performance](images/02-departmental-performance.png)
+![Departmental Performance](02-departmental-performance.png)
 
 **3 — Attrition Analysis** *(why do people leave?)*
-![Attrition Analysis](images/03-attrition-analysis.png)
+![Attrition Analysis](03-attrition-analysis.png)
 
 **4 — Compensation & Diversity** *(is pay equitable?)*
-![Compensation and Diversity](images/04-compensation-diversity.png)
+![Compensation and Diversity](04-compensation-diversity.png)
 
 **5 — Executive Summary** *(what should leadership do?)*
-![Executive Summary](images/05-executive-summary.png)
+![Executive Summary](05-executive-summary.png)
 
 A sixth page — **Employee Detail** — is hidden and reached by right-clicking any department to drill through to the individual employees behind the number, with headcount, attrition and average salary recalculated for that department alone.
 
