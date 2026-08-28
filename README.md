@@ -230,7 +230,7 @@ TalentCore is a **case-study dataset** built for HR analytics practice, with dat
 
 <div align="center">
 
-**Wanjiku Waweru** · BBS Financial Engineering, Strathmore University
-[GitHub](https://github.com/ShikohWaweru)
+**Rosemary Waweru** · Data Analyst
+[LinkedIn](https://www.linkedin.com/in/rosemary-waweru-85108b2a1)
 
 </div>
